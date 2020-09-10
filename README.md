@@ -1,7 +1,7 @@
 # KWIC Tutorial
 This is a [Maven](https://maven.apache.org/index.html) project. You need to install Maven first before coding.
 
-This project was developed with **Java 8**. Make sure you have appropriate [SDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) installed on your machine.
+This project was developed with **Java 8**. Make sure you have appropriate [SDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) installed on your machine. Hi.
 
 ## Install Maven
 Maven is a build manager for Java projects. It helps you to install Java libraries, automate the project build process and manage your Java project.
